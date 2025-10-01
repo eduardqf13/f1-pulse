@@ -1,8 +1,8 @@
-.header-sec2 > li:nth-child(3) {
+.header-sec2 > li:nth-child(1) {
     background-color: #dc2626;
     color: #fff;
 }
 
-.header-sec2 >li:nth-child(3) > a {
+.header-sec2 >li:nth-child(1) > a {
     color:#fff ;
 }
